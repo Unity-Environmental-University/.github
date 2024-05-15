@@ -2,13 +2,6 @@
 
 Welcome to the University's Resources Repository! This repository holds documentation, tools, and projects for Unity.
 
-## Table of Contents
-- [About](#about)
-- [Documentation](#documentation)
-- [Tools](#tools)
-- [Projects](#projects)
-- [Contact](#contact)
-
 ## About
 Centralized access to key resources for students, faculty, and researchers.
 
