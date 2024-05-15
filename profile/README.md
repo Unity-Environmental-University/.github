@@ -1,4 +1,4 @@
-# University Resources Repository
+# Unity's Resources Repository
 
 Welcome! This repository contains documentation, tools, and projects for our university community.
 
