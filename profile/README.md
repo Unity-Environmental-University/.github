@@ -1,23 +1,14 @@
-# Unity Environmental University Resources Repository
+# University Resources Repository
 
-Welcome to the University's Resources Repository! This repository holds documentation, tools, and projects for Unity.
+Welcome! This repository contains documentation, tools, and projects for our university community.
 
-## About
-Centralized access to key resources for students, faculty, and researchers.
+## What you'll find
+- **Documentation**: Course materials, guides, & procedures.
+- **Tools**: Software utilities and recources.
+- **Projects**: Faculty projects and collaborative initiatives.
 
-## Documentation
-- Course materials
-- Guides and tutorials
-- Policies and procedures
-
-## Tools
-- Software utilities
-- Libraries and frameworks
-
-## Projects
-- Faculty Projects
-- Collaborative initiatives
+## Contributing
+Fork, create a branch, commit changes, push, and open a pull request.
 
 ## Contact
-For inquiries or support, please contact:
-- **Email**: xr@unity.edu
+Email: xr@unity.edu
